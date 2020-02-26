@@ -2,3 +2,8 @@ h3 {
     text-align: center;
 }
 
+div {
+    margin: auto;
+    padding-top: 16px;
+} 
+
